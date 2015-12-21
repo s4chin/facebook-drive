@@ -1,4 +1,4 @@
-import argparse, os, sys
+import argparse, os
 kB = 1024
 mB = 1024 * kB
 chunkSize = 1 * mB
